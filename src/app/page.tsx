@@ -74,7 +74,6 @@ export default function SitePage() {
       <div id="about" data-section="about">
         <TextAbout
           title="Crafted for Modern Palates"
-          description="At ColaLux, we believe cola should be more than just a drink. It's an experience, a moment of refreshing discovery. Our master blenders have meticulously crafted a formula that balances classic cola notes with a sophisticated, contemporary twist, using only the finest ingredients."
         />
       </div>
 
@@ -153,7 +152,7 @@ export default function SitePage() {
           faqs={[
             { id: "1", title: "What makes ColaLux unique?", content: "ColaLux stands out with its meticulously crafted blend of natural extracts and spices, offering a sophisticated taste profile that balances classic cola notes with a modern, refreshing twist. Our commitment to premium ingredients and sustainable practices further sets us apart." },
             { id: "2", title: "Are your ingredients all-natural?", content: "Yes, we pride ourselves on using only the finest natural ingredients. Our flavors are derived from botanical extracts and real fruit infusions, with no artificial flavors, colors, or preservatives." },
-            { id: "3", title: "Do you offer sugar-free options?", content: "Absolutely! Our ColaLux Zero provides the same great taste experience as our classic blend but with zero sugar. It's perfectly crafted for those seeking a lighter alternative without compromising on flavor." },
+            { id: "3", title: "Do you offer sugar-free options??", content: "Absolutely! Our ColaLux Zero provides the same great taste experience as our classic blend but with zero sugar. It's perfectly crafted for those seeking a lighter alternative without compromising on flavor." },
             { id: "4", title: "Where can I purchase ColaLux?", content: "ColaLux is available through our online store for direct shipping, as well as in select gourmet supermarkets and specialty beverage retailers nationwide. Check our 'Find a Store' page for locations near you." }
           ]}
           faqsAnimation="slide-up"
