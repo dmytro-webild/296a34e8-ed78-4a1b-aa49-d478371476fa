@@ -74,7 +74,7 @@ export default function SitePage() {
       <div id="about" data-section="about">
         <TextAbout
           title="Crafted for Modern Palates"
-          body="At ColaLux, we believe cola should be more than just a drink. It's an experience, a moment of refreshing discovery. Our master blenders have meticulously crafted a formula that balances classic cola notes with a sophisticated, contemporary twist, using only the finest ingredients."
+          description="At ColaLux, we believe cola should be more than just a drink. It's an experience, a moment of refreshing discovery. Our master blenders have meticulously crafted a formula that balances classic cola notes with a sophisticated, contemporary twist, using only the finest ingredients."
         />
       </div>
 
