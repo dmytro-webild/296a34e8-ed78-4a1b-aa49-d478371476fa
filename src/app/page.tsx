@@ -49,20 +49,20 @@ export default function SitePage() {
           description="Experience cola reimagined through interactive storytelling. Touch, explore, and discover what makes our blend uniquely crafted for modern palates."
           background={{ variant: "sparkles-gradient" }}
           leftCarouselItems={[
-            { imageSrc: "http://img.b2bpic.net/free-photo/refreshing-iced-coffee-glass-with-condensation-ice_84443-83820.jpg", imageAlt: "Dynamic cola bottle splash" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/futuristic-brightly-colored-soda-bottle_23-2150995220.jpg", imageAlt: "Sleek cola can design" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/fresh-citrus-fruit-juice-cocktail-flying-tangerine-slice-glass-selective-focus-levitating-fruit-slice-idea-making-cocktail-juice-from-mandarin_166373-1826.jpg", imageAlt: "Glass of cola with condensation" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-sits-table-with-cocktail-lit-candle_140725-9075.jpg", imageAlt: "Elegant cola bottle label" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/brown-drink-falling-ice_1194-1210.jpg", imageAlt: "Cola splashing in a glass" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/front-view-blue-smoothie-with-decoration_23-2148555316.jpg", imageAlt: "Cola can on vibrant background" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/refreshing-iced-coffee-glass-with-condensation-ice_84443-83820.jpg?_wi=1", imageAlt: "Dynamic cola bottle splash" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/futuristic-brightly-colored-soda-bottle_23-2150995220.jpg?_wi=1", imageAlt: "Sleek cola can design" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/fresh-citrus-fruit-juice-cocktail-flying-tangerine-slice-glass-selective-focus-levitating-fruit-slice-idea-making-cocktail-juice-from-mandarin_166373-1826.jpg?_wi=1", imageAlt: "Glass of cola with condensation" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-sits-table-with-cocktail-lit-candle_140725-9075.jpg?_wi=1", imageAlt: "Elegant cola bottle label" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/brown-drink-falling-ice_1194-1210.jpg?_wi=1", imageAlt: "Cola splashing in a glass" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/front-view-blue-smoothie-with-decoration_23-2148555316.jpg?_wi=1", imageAlt: "Cola can on vibrant background" }
           ]}
           rightCarouselItems={[
-            { imageSrc: "http://img.b2bpic.net/free-photo/front-view-blue-smoothie-with-decoration_23-2148555316.jpg", imageAlt: "Cola can on vibrant background" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/brown-drink-falling-ice_1194-1210.jpg", imageAlt: "Cola splashing in a glass" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-sits-table-with-cocktail-lit-candle_140725-9075.jpg", imageAlt: "Elegant cola bottle label" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/fresh-citrus-fruit-juice-cocktail-flying-tangerine-slice-glass-selective-focus-levitating-fruit-slice-idea-making-cocktail-juice-from-mandarin_166373-1826.jpg", imageAlt: "Glass of cola with condensation" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/futuristic-brightly-colored-soda-bottle_23-2150995220.jpg", imageAlt: "Sleek cola can design" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/refreshing-iced-coffee-glass-with-condensation-ice_84443-83820.jpg", imageAlt: "Dynamic cola bottle splash" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/front-view-blue-smoothie-with-decoration_23-2148555316.jpg?_wi=2", imageAlt: "Cola can on vibrant background" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/brown-drink-falling-ice_1194-1210.jpg?_wi=2", imageAlt: "Cola splashing in a glass" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-sits-table-with-cocktail-lit-candle_140725-9075.jpg?_wi=2", imageAlt: "Elegant cola bottle label" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/fresh-citrus-fruit-juice-cocktail-flying-tangerine-slice-glass-selective-focus-levitating-fruit-slice-idea-making-cocktail-juice-from-mandarin_166373-1826.jpg?_wi=2", imageAlt: "Glass of cola with condensation" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/futuristic-brightly-colored-soda-bottle_23-2150995220.jpg?_wi=2", imageAlt: "Sleek cola can design" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/refreshing-iced-coffee-glass-with-condensation-ice_84443-83820.jpg?_wi=2", imageAlt: "Dynamic cola bottle splash" }
           ]}
           buttons={[
             { text: "Explore Our Collection", href: "#products" }
