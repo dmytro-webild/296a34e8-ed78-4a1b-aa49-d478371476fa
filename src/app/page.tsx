@@ -74,6 +74,7 @@ export default function SitePage() {
       <div id="about" data-section="about">
         <TextAbout
           title="Crafted for Modern Palates"
+          useInvertedBackground={false}
         />
       </div>
 
